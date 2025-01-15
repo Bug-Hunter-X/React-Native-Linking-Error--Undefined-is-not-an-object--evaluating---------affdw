@@ -1,0 +1,1 @@
+This error occurs when using a third-party library that depends on native modules and has not been correctly linked or configured for your specific platform (Android or iOS). This can manifest in different ways, such as undefined is not an object (evaluating '...'), or the library's functions not being available.
